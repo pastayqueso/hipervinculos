@@ -1,7 +1,4 @@
-# hipervinculos
 <html>
-<head>
-</head>
 <body>
 
 <h1><center>Hiperv&iacutenculos</h1></center>
@@ -15,7 +12,7 @@
 <a href=https://www.milenio.com/> noticias</a>
 
 <h3> A una pagina de internet en una imagen </h3>
-<a href="https://www.sanrio.com/"><img src="hk.jpg"></a>
+<a href="https://www.sanrio.com/"><img src="hk.png"></a>
 
 <h3> A un archivo </h3>
 <a href="Hellokitty.jpg"> imagen de kitty </a> <br>
@@ -28,7 +25,7 @@
 
 <h3> vinculos internos</h3>
 <h2><nav id="menu"> </h2>
-
+<div class="menucito" id="menucito">
 <ul>
 <li><a href="#contenedor">mision</li></a>
 <li><a href="#mesa">vision</li></a>
@@ -39,43 +36,48 @@
 <li><a href="#xd">porra</li></a>
 </ul>
 </nav>
+</div>
 <br>
 <div class="contenedor" id="contenedor">
-<h3>Misión </h3><br>
+<h3>Misión </h3><br> <a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
 Institución educativa del Estado que forma integralmente a técnicos, profesionistas e investigadores Institución educativa del Estado creada para consolidar, a través de la educación, la a través de programas pertinentes en diversas áreas del conocimiento, que realiza investigación científica y tecnológica; promueve la innovación y fomenta la vinculación y extensión con los sectores productivo y social, para contribuir al desarrollo tecnológico, económico, político, social y cultural del país.
 <br>
 </div>
 <div class="mesa" id="mesa">
-<h3>Visión</h3><br>
+<h3>Visión</h3><br> <a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
 Ser referente de la educación superior tecnológica en México y el mundo por la excelencia de la formación que brinda, el conocimiento científico de vanguardia que genera, las soluciones innovadoras que transformación del país, en un ambiente de inclusión, libertad, equidad, transparencia y democracia.
 <br>
 </div>
 <div class="bote" id="bote">
-<h3>escudo</h3><br>
-<img src="escudo">
+<h3>escudo</h3><br> <a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
+<img src="escudo.jpg">
 <br>
 </div>
 <div class="caso" id="caso">
-<h3>Lema</h3><br>
+<h3>Lema</h3><br><a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
 "La Técnica al Servicio de la Patria"<br>
 El lema era utilizado por algunos estudiantes desde antes de la creación del IPN, pero fue durante el Primer Congreso Nacional de Estudiantes Técnicos, realizado en la ciudad de Chihuahua en 1937, donde el estudiante Jesús Robles propuso utilizar la frase La Técnica al Servicio de una Patria Mejor. Años más tarde este lema fue modificado por “La Técnica al Servicio de la Patria”, el cual expresa los ideales del Politécnico.
 <br>
 </div>
 <div class="barro" id="barro">
-<h3>Himno</h3><br>
+<h3>Himno</h3><br> <a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
 Para obtener el Himno se convocó a un concurso abierto para su creación, pero no hubo eco al llamado. Luego de dos nuevas convocatorias, la poetisa Carmen de la Fuente resultó triunfadora del certamen y la Dirección General del Instituto le premió, el 15 de julio de 1961. Posteriormente, como la música aún no estaba elegida, se convocó a un certamen para poner música a la letra del himno del IPN, y resultó triunfador Armando González Domínguez, pianista reconocido y director de varias orquestas.
 <br>
 </div>
+
 <div class="masca" id="masca">
-<h3<Mascota</h3><br>
-Es tradición que las Instituciones de Educación Superior, y particularmente los equipos deportivos, elijan una mascota; la del Instituto Politécnico Nacional es un burro blanco. Se conocen por tradición oral diferentes versiones que al paso del tiempo se funden entre la realidad y el mito, el caso del Instituto Politécnico Nacional es de las más conocidas, la razón es muy particular. Se dice que al establecer los límites del terreno donde se construía el Instituto, en la Ex Hacienda de Santo Tomás durante los años 30, quedó encerrada una burra blanca; al ser descubierta por los estudiantes e integrantes del primer equipo de fútbol americano la tomaron como su mascota. Con el paso de los años, la burra se convirtió en uno de los símbolos del Politécnico, fundamentalmente en el ámbito deportivo.
-<img src="mascota">
+<h3>Mascota</h3><br> <a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
+<img src="mascota.jpg" height="400">
 <br>
 </div>
+
 <div class="xd" id="xd">
-<h3>Porra</h3><br>
+<h3>Porra</h3><br> <a href="#menucito"><img src="menu.png" height="70" align="right"></a><br>
 Uno de los deportes que creció junto con el Politécnico fue el fútbol americano. Desde sus inicios ha dejado profunda huella entre sus seguidores, quienes para apoyarlo han entonado diferentes porras: desde el chiquitibum hasta el huélum; sin embargo, es éste el que ha permanecido vigente a través de un grito de fiesta para celebrar y cerrar todos los eventos.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-</body>
+
+
+
+<a href=""><img src="menu.png" width=100 heigth=100></center></a>
 </html>
