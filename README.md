@@ -1,8 +1,8 @@
 <html>
 <body>
 
-<h1><center>Hiperv&iacutenculos</h1></center>
-<h2>hiperv&iacutenculos externos</h2>
+<h1><center>Hipervinculos</h1></center>
+<h2>hipervinculos externos</h2>
 <h3> A una pagina web</h3>
 <a href="https://www.google.com.mx/?hl=es-419"> google</a>
 <a href="https://www.marvel.com/"> marvel</a> <br><br>
